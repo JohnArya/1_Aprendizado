@@ -1,2 +1,1 @@
 Esse texto é para testar a função pull
-Teste realizado com sucesso
